@@ -1,0 +1,373 @@
+Event_ID,Date,Year,Month,State_UT,Region,Latitude,Longitude,Magnitude,Magnitude_Class,Depth_km,Depth_Class,Seismic_Zone,Felt_Intensity_MMI,Population_Exposed_000s,Aftershocks_24h,Damage_Level
+EQ0001,2018-01-05,2018,1,Rajasthan,Western Peninsula,25.899,72.168,3.5,Minor,6.5,Shallow,II,4,54,0,Minor
+EQ0002,2018-01-08,2018,1,Gujarat,Western Peninsula,23.433,70.695,3.0,Minor,20.7,Shallow,V,3,30,0,Minor
+EQ0003,2018-01-12,2018,1,Telangana,Peninsular India,17.747,78.135,3.6,Minor,3.3,Shallow,II,4,99,0,Minor
+EQ0004,2018-01-22,2018,1,Delhi,Indo-Gangetic Plain,27.977,77.734,4.0,Light,15.2,Shallow,IV,5,329,2,Moderate
+EQ0005,2018-02-16,2018,2,Maharashtra,Western Peninsula,17.355,73.95,3.5,Minor,3.0,Shallow,III,4,78,0,Minor
+EQ0006,2018-02-25,2018,2,Manipur,North-East,24.59,94.213,7.1,Strong,64.3,Intermediate,V,6,265,17,Moderate
+EQ0007,2018-02-27,2018,2,Delhi,Indo-Gangetic Plain,28.931,77.91,3.4,Minor,5.9,Shallow,IV,4,150,0,Minor
+EQ0008,2018-03-08,2018,3,Mizoram,North-East,22.224,93.352,5.1,Moderate,22.0,Shallow,V,5,156,2,Moderate
+EQ0009,2018-03-09,2018,3,Jammu and Kashmir,Himalayan Belt,34.14,74.384,3.5,Minor,12.8,Shallow,V,3,61,0,Minor
+EQ0010,2018-03-14,2018,3,Uttarakhand,Himalayan Belt,30.948,79.245,3.6,Minor,18.6,Shallow,IV,4,51,1,Minor
+EQ0011,2018-04-03,2018,4,Rajasthan,Western Peninsula,27.067,73.292,3.0,Minor,3.0,Shallow,II,3,21,0,Minor
+EQ0012,2018-04-20,2018,4,Nagaland,North-East,25.706,94.396,3.9,Minor,40.5,Intermediate,V,3,17,1,None
+EQ0013,2018-04-21,2018,4,Arunachal Pradesh,North-East,26.54,95.704,5.1,Moderate,63.1,Intermediate,V,4,100,7,Minor
+EQ0014,2018-04-23,2018,4,Andaman and Nicobar,Island Arc,12.34,92.49,4.1,Light,57.6,Intermediate,V,3,27,3,None
+EQ0015,2018-05-07,2018,5,Jammu and Kashmir,Himalayan Belt,32.871,74.803,3.8,Minor,13.2,Shallow,V,4,95,1,Minor
+EQ0016,2018-05-23,2018,5,Mizoram,North-East,23.955,92.994,3.7,Minor,10.0,Shallow,V,4,28,1,Minor
+EQ0017,2018-05-25,2018,5,Uttar Pradesh,Indo-Gangetic Plain,27.291,81.274,3.6,Minor,12.5,Shallow,III,3,61,1,Minor
+EQ0018,2018-06-03,2018,6,Gujarat,Western Peninsula,23.212,69.385,3.9,Minor,14.2,Shallow,V,4,200,1,Minor
+EQ0019,2018-06-13,2018,6,Assam,North-East,26.354,93.539,3.4,Minor,42.5,Intermediate,V,3,100,0,None
+EQ0020,2018-06-22,2018,6,Gujarat,Western Peninsula,23.26,69.288,3.7,Minor,19.1,Shallow,V,4,175,1,Minor
+EQ0021,2018-06-26,2018,6,Manipur,North-East,24.439,93.992,4.6,Light,78.4,Deep,V,3,80,4,None
+EQ0022,2018-07-11,2018,7,Rajasthan,Western Peninsula,27.282,73.595,3.6,Minor,5.4,Shallow,II,4,20,0,Minor
+EQ0023,2018-07-14,2018,7,Manipur,North-East,24.538,94.194,4.4,Light,77.2,Deep,V,4,176,4,Minor
+EQ0024,2018-07-15,2018,7,Arunachal Pradesh,North-East,28.671,96.092,7.1,Strong,3.2,Shallow,V,8,222,25,Severe
+EQ0025,2018-07-18,2018,7,Assam,North-East,25.759,94.415,3.4,Minor,69.7,Intermediate,V,2,86,0,None
+EQ0026,2018-07-24,2018,7,Uttarakhand,Himalayan Belt,30.587,78.392,3.9,Minor,13.1,Shallow,IV,4,136,2,Minor
+EQ0027,2018-08-02,2018,8,Bihar,Indo-Gangetic Plain,25.743,85.061,5.2,Moderate,8.4,Shallow,IV,6,598,10,Moderate
+EQ0028,2018-08-03,2018,8,Assam,North-East,27.111,93.315,4.8,Light,45.5,Intermediate,V,4,550,6,Minor
+EQ0029,2018-08-20,2018,8,Gujarat,Western Peninsula,23.657,70.043,4.0,Light,3.0,Shallow,V,4,181,1,Minor
+EQ0030,2018-09-02,2018,9,Jammu and Kashmir,Himalayan Belt,34.039,74.829,3.9,Minor,7.5,Shallow,V,5,199,1,Moderate
+EQ0031,2018-09-06,2018,9,Maharashtra,Western Peninsula,16.831,73.649,3.3,Minor,16.1,Shallow,III,3,76,0,Minor
+EQ0032,2018-09-06,2018,9,Assam,North-East,27.591,93.841,5.3,Moderate,6.2,Shallow,V,6,130,10,Moderate
+EQ0033,2018-09-08,2018,9,Assam,North-East,26.419,91.855,3.9,Minor,13.2,Shallow,V,4,150,1,Minor
+EQ0034,2018-09-09,2018,9,Andaman and Nicobar,Island Arc,11.461,93.049,5.2,Moderate,25.1,Shallow,V,5,15,8,Moderate
+EQ0035,2018-09-09,2018,9,Delhi,Indo-Gangetic Plain,28.441,76.676,4.1,Light,22.6,Shallow,IV,4,144,2,Minor
+EQ0036,2018-09-14,2018,9,Delhi,Indo-Gangetic Plain,28.922,77.114,4.0,Light,6.5,Shallow,IV,4,159,1,Minor
+EQ0037,2018-09-15,2018,9,Bihar,Indo-Gangetic Plain,25.74,84.929,3.1,Minor,29.7,Shallow,IV,2,101,0,None
+EQ0038,2018-09-18,2018,9,Arunachal Pradesh,North-East,27.517,94.167,4.6,Light,50.7,Intermediate,V,4,182,4,Minor
+EQ0039,2018-09-26,2018,9,Uttarakhand,Himalayan Belt,31.347,78.633,4.2,Light,4.9,Shallow,IV,4,58,2,Minor
+EQ0040,2018-10-04,2018,10,Sikkim,North-East,27.361,88.737,3.6,Minor,21.2,Shallow,IV,3,48,0,Minor
+EQ0041,2018-11-04,2018,11,Jammu and Kashmir,Himalayan Belt,34.717,73.774,3.6,Minor,16.6,Shallow,V,3,58,0,Minor
+EQ0042,2018-11-18,2018,11,Gujarat,Western Peninsula,23.111,72.238,3.5,Minor,15.3,Shallow,V,3,101,0,Minor
+EQ0043,2018-11-19,2018,11,Telangana,Peninsular India,16.524,78.684,3.6,Minor,3.0,Shallow,II,5,114,0,Moderate
+EQ0044,2018-11-21,2018,11,Himachal Pradesh,Himalayan Belt,31.765,77.868,3.3,Minor,5.3,Shallow,V,4,58,0,Minor
+EQ0045,2018-11-23,2018,11,Maharashtra,Western Peninsula,17.38,73.65,3.8,Minor,14.2,Shallow,III,5,52,1,Moderate
+EQ0046,2018-12-03,2018,12,Himachal Pradesh,Himalayan Belt,32.191,76.692,4.1,Light,14.9,Shallow,V,4,79,2,Minor
+EQ0047,2018-12-11,2018,12,Himachal Pradesh,Himalayan Belt,32.033,77.213,4.4,Light,20.0,Shallow,V,5,60,3,Moderate
+EQ0048,2019-01-04,2019,1,Arunachal Pradesh,North-East,27.941,94.076,4.8,Light,41.2,Intermediate,V,5,125,2,Minor
+EQ0049,2019-01-18,2019,1,Manipur,North-East,24.686,93.319,3.9,Minor,33.8,Intermediate,V,3,64,1,None
+EQ0050,2019-01-18,2019,1,Assam,North-East,26.457,92.585,4.4,Light,20.9,Shallow,V,4,247,3,Minor
+EQ0051,2019-02-03,2019,2,Sikkim,North-East,27.443,88.259,4.3,Light,43.8,Intermediate,IV,4,141,3,Minor
+EQ0052,2019-02-04,2019,2,Jammu and Kashmir,Himalayan Belt,34.984,75.02,3.0,Minor,52.0,Intermediate,V,2,26,0,None
+EQ0053,2019-02-07,2019,2,Assam,North-East,26.371,93.837,4.9,Light,29.1,Shallow,V,5,653,7,Moderate
+EQ0054,2019-02-08,2019,2,Himachal Pradesh,Himalayan Belt,31.595,76.188,4.0,Light,15.3,Shallow,V,4,152,2,Minor
+EQ0055,2019-02-09,2019,2,Gujarat,Western Peninsula,23.232,69.311,4.9,Light,19.3,Shallow,V,5,176,5,Moderate
+EQ0056,2019-02-28,2019,2,Uttarakhand,Himalayan Belt,31.03,79.122,4.0,Light,14.4,Shallow,IV,4,319,2,Minor
+EQ0057,2019-03-13,2019,3,Uttar Pradesh,Indo-Gangetic Plain,26.924,79.58,4.9,Light,6.7,Shallow,III,6,524,3,Moderate
+EQ0058,2019-03-22,2019,3,Odisha,Peninsular India,20.514,84.668,3.2,Minor,8.2,Shallow,III,3,33,0,Minor
+EQ0059,2019-04-13,2019,4,Uttarakhand,Himalayan Belt,30.265,79.054,4.0,Light,5.2,Shallow,IV,5,226,1,Moderate
+EQ0060,2019-04-16,2019,4,Nagaland,North-East,25.741,94.78,3.5,Minor,205.6,Deep,V,1,23,0,None
+EQ0061,2019-04-28,2019,4,Himachal Pradesh,Himalayan Belt,31.784,77.52,5.1,Moderate,12.0,Shallow,V,5,136,4,Moderate
+EQ0062,2019-05-14,2019,5,Manipur,North-East,24.925,93.821,4.7,Light,15.7,Shallow,V,5,99,4,Moderate
+EQ0063,2019-05-15,2019,5,Assam,North-East,27.081,91.448,4.6,Light,36.1,Intermediate,V,5,181,3,Minor
+EQ0064,2019-05-21,2019,5,Assam,North-East,25.751,92.642,4.3,Light,14.1,Shallow,V,5,134,2,Moderate
+EQ0065,2019-05-25,2019,5,Assam,North-East,25.519,92.735,5.8,Moderate,5.9,Shallow,V,5,275,8,Moderate
+EQ0066,2019-05-28,2019,5,Delhi,Indo-Gangetic Plain,28.741,77.192,3.5,Minor,3.0,Shallow,IV,3,221,0,Minor
+EQ0067,2019-06-04,2019,6,Arunachal Pradesh,North-East,28.68,94.067,3.8,Minor,5.4,Shallow,V,3,24,1,Minor
+EQ0068,2019-06-09,2019,6,Tamil Nadu,Peninsular India,11.507,79.334,3.0,Minor,6.5,Shallow,III,3,51,0,Minor
+EQ0069,2019-06-11,2019,6,Assam,North-East,26.067,92.683,3.5,Minor,32.0,Intermediate,V,3,87,0,None
+EQ0070,2019-06-11,2019,6,Manipur,North-East,24.085,93.655,4.4,Light,88.0,Deep,V,3,108,4,None
+EQ0071,2019-07-01,2019,7,Mizoram,North-East,23.202,92.465,5.0,Moderate,18.9,Shallow,V,5,65,2,Moderate
+EQ0072,2019-07-02,2019,7,Gujarat,Western Peninsula,23.27,70.065,3.7,Minor,24.6,Shallow,V,4,124,1,Minor
+EQ0073,2019-07-03,2019,7,Assam,North-East,25.947,90.759,4.9,Light,8.2,Shallow,V,6,293,3,Moderate
+EQ0074,2019-07-05,2019,7,Jammu and Kashmir,Himalayan Belt,33.179,74.278,3.8,Minor,21.7,Shallow,V,4,42,1,Minor
+EQ0075,2019-07-25,2019,7,Uttar Pradesh,Indo-Gangetic Plain,27.563,80.414,4.3,Light,8.9,Shallow,III,4,255,4,Minor
+EQ0076,2019-07-27,2019,7,Mizoram,North-East,24.628,93.301,3.4,Minor,104.3,Deep,V,1,30,0,None
+EQ0077,2019-08-04,2019,8,Nagaland,North-East,25.81,94.708,3.5,Minor,41.7,Intermediate,V,4,22,0,Minor
+EQ0078,2019-08-12,2019,8,Manipur,North-East,24.872,93.523,6.5,Strong,27.5,Shallow,V,6,154,17,Moderate
+EQ0079,2019-08-17,2019,8,Himachal Pradesh,Himalayan Belt,31.995,77.788,5.3,Moderate,5.6,Shallow,V,6,132,10,Moderate
+EQ0080,2019-08-17,2019,8,Jammu and Kashmir,Himalayan Belt,34.546,76.63,4.1,Light,22.7,Shallow,V,5,104,1,Moderate
+EQ0081,2019-09-05,2019,9,Himachal Pradesh,Himalayan Belt,32.15,77.585,4.7,Light,7.1,Shallow,V,6,357,3,Moderate
+EQ0082,2019-09-07,2019,9,Himachal Pradesh,Himalayan Belt,32.099,76.562,3.9,Minor,3.0,Shallow,V,5,113,1,Moderate
+EQ0083,2019-09-09,2019,9,Andaman and Nicobar,Island Arc,12.066,92.652,5.6,Moderate,52.2,Intermediate,V,6,28,4,Moderate
+EQ0084,2019-09-15,2019,9,Delhi,Indo-Gangetic Plain,28.444,77.272,3.4,Minor,20.6,Shallow,IV,4,184,0,Minor
+EQ0085,2019-09-16,2019,9,Sikkim,North-East,27.798,88.453,3.9,Minor,32.7,Intermediate,IV,3,27,1,None
+EQ0086,2019-09-18,2019,9,Sikkim,North-East,27.541,88.937,4.0,Light,18.6,Shallow,IV,4,100,1,Minor
+EQ0087,2019-09-22,2019,9,Telangana,Peninsular India,16.954,78.064,3.1,Minor,5.1,Shallow,II,3,65,0,Minor
+EQ0088,2019-09-24,2019,9,Gujarat,Western Peninsula,24.058,67.681,5.7,Moderate,16.5,Shallow,V,6,210,13,Moderate
+EQ0089,2019-10-21,2019,10,Rajasthan,Western Peninsula,24.018,73.44,3.6,Minor,18.6,Shallow,II,3,30,0,Minor
+EQ0090,2019-10-23,2019,10,Nagaland,North-East,26.882,94.547,6.9,Strong,24.2,Shallow,V,7,66,23,Severe
+EQ0091,2019-10-26,2019,10,Gujarat,Western Peninsula,23.845,70.573,4.0,Light,8.3,Shallow,V,5,210,2,Moderate
+EQ0092,2019-11-04,2019,11,Arunachal Pradesh,North-East,27.666,94.973,4.4,Light,40.2,Intermediate,V,4,49,4,Minor
+EQ0093,2019-11-07,2019,11,Jammu and Kashmir,Himalayan Belt,33.991,74.626,4.0,Light,11.6,Shallow,V,4,75,1,Minor
+EQ0094,2019-11-07,2019,11,Andaman and Nicobar,Island Arc,11.459,92.677,4.6,Light,210.0,Deep,V,1,16,2,None
+EQ0095,2019-11-11,2019,11,Uttarakhand,Himalayan Belt,29.708,79.044,5.0,Moderate,40.9,Intermediate,IV,4,211,8,Minor
+EQ0096,2019-11-27,2019,11,Mizoram,North-East,23.21,93.672,4.3,Light,50.1,Intermediate,V,4,34,3,Minor
+EQ0097,2019-12-22,2019,12,Jammu and Kashmir,Himalayan Belt,33.478,74.077,3.2,Minor,15.8,Shallow,V,3,97,0,Minor
+EQ0098,2019-12-28,2019,12,Arunachal Pradesh,North-East,28.003,94.574,4.3,Light,33.4,Intermediate,V,4,82,3,Minor
+EQ0099,2020-01-01,2020,1,Sikkim,North-East,27.572,88.298,4.4,Light,38.4,Intermediate,IV,4,86,4,Minor
+EQ0100,2020-01-02,2020,1,Uttar Pradesh,Indo-Gangetic Plain,26.519,81.58,3.4,Minor,14.2,Shallow,III,4,74,0,Minor
+EQ0101,2020-01-04,2020,1,Uttarakhand,Himalayan Belt,30.357,79.562,3.4,Minor,5.0,Shallow,IV,4,72,0,Minor
+EQ0102,2020-01-12,2020,1,Sikkim,North-East,27.757,88.459,3.5,Minor,53.6,Intermediate,IV,3,29,0,None
+EQ0103,2020-01-12,2020,1,Andaman and Nicobar,Island Arc,12.129,92.577,4.0,Light,86.4,Deep,V,4,20,2,Minor
+EQ0104,2020-01-19,2020,1,Himachal Pradesh,Himalayan Belt,32.634,77.505,5.7,Moderate,15.4,Shallow,V,6,316,13,Moderate
+EQ0105,2020-01-21,2020,1,Maharashtra,Western Peninsula,17.223,73.867,3.3,Minor,8.4,Shallow,III,4,27,0,Minor
+EQ0106,2020-01-28,2020,1,Uttarakhand,Himalayan Belt,29.611,79.137,4.1,Light,45.7,Intermediate,IV,3,177,3,None
+EQ0107,2020-02-09,2020,2,Manipur,North-East,24.783,93.716,7.0,Strong,50.5,Intermediate,V,6,397,30,Moderate
+EQ0108,2020-02-13,2020,2,Assam,North-East,25.599,92.949,5.2,Moderate,65.5,Intermediate,V,4,175,11,Minor
+EQ0109,2020-03-01,2020,3,Telangana,Peninsular India,16.905,78.46,3.4,Minor,3.0,Shallow,II,4,91,0,Minor
+EQ0110,2020-03-09,2020,3,Mizoram,North-East,23.436,93.062,4.0,Light,30.6,Intermediate,V,3,28,2,None
+EQ0111,2020-03-26,2020,3,Gujarat,Western Peninsula,22.958,70.537,6.5,Strong,9.0,Shallow,V,7,518,21,Severe
+EQ0112,2020-04-02,2020,4,Delhi,Indo-Gangetic Plain,28.675,77.618,3.6,Minor,16.4,Shallow,IV,3,255,1,Minor
+EQ0113,2020-04-05,2020,4,Bihar,Indo-Gangetic Plain,25.747,85.619,4.1,Light,16.1,Shallow,IV,4,329,1,Minor
+EQ0114,2020-04-05,2020,4,Maharashtra,Western Peninsula,17.257,73.917,4.0,Light,9.7,Shallow,III,5,131,2,Moderate
+EQ0115,2020-04-12,2020,4,Jammu and Kashmir,Himalayan Belt,34.757,74.72,3.8,Minor,24.9,Shallow,V,4,50,1,Minor
+EQ0116,2020-04-12,2020,4,Odisha,Peninsular India,20.502,84.447,4.0,Light,6.2,Shallow,III,4,71,2,Minor
+EQ0117,2020-04-24,2020,4,Assam,North-East,26.176,92.762,3.3,Minor,7.4,Shallow,V,4,79,0,Minor
+EQ0118,2020-05-26,2020,5,Uttar Pradesh,Indo-Gangetic Plain,28.113,79.771,3.6,Minor,24.6,Shallow,III,4,81,1,Minor
+EQ0119,2020-06-01,2020,6,Delhi,Indo-Gangetic Plain,28.518,77.35,5.1,Moderate,23.7,Shallow,IV,5,1681,8,Moderate
+EQ0120,2020-06-08,2020,6,Sikkim,North-East,27.439,88.447,3.2,Minor,11.0,Shallow,IV,2,15,0,None
+EQ0121,2020-06-24,2020,6,Jammu and Kashmir,Himalayan Belt,33.714,75.35,3.3,Minor,14.1,Shallow,V,4,19,0,Minor
+EQ0122,2020-07-02,2020,7,Odisha,Peninsular India,19.749,84.402,3.7,Minor,3.0,Shallow,III,4,88,0,Minor
+EQ0123,2020-07-09,2020,7,Himachal Pradesh,Himalayan Belt,31.444,77.241,3.0,Minor,7.3,Shallow,V,3,32,0,Minor
+EQ0124,2020-07-09,2020,7,Mizoram,North-East,23.743,92.634,5.7,Moderate,124.1,Deep,V,4,117,7,Minor
+EQ0125,2020-07-14,2020,7,Uttarakhand,Himalayan Belt,30.506,79.129,4.0,Light,33.6,Intermediate,IV,4,286,2,Minor
+EQ0126,2020-07-16,2020,7,Rajasthan,Western Peninsula,26.114,73.043,3.5,Minor,8.2,Shallow,II,4,33,0,Minor
+EQ0127,2020-08-06,2020,8,Himachal Pradesh,Himalayan Belt,31.464,77.639,4.4,Light,22.2,Shallow,V,4,356,3,Minor
+EQ0128,2020-08-25,2020,8,Delhi,Indo-Gangetic Plain,28.518,77.204,4.0,Light,3.0,Shallow,IV,5,346,2,Moderate
+EQ0129,2020-08-25,2020,8,Telangana,Peninsular India,17.25,79.232,3.1,Minor,5.7,Shallow,II,3,18,0,Minor
+EQ0130,2020-08-27,2020,8,Bihar,Indo-Gangetic Plain,26.481,84.333,5.9,Moderate,26.3,Shallow,IV,6,684,13,Moderate
+EQ0131,2020-09-03,2020,9,Andaman and Nicobar,Island Arc,11.956,92.833,3.4,Minor,26.1,Shallow,V,3,18,0,Minor
+EQ0132,2020-09-03,2020,9,Bihar,Indo-Gangetic Plain,25.875,85.438,3.9,Minor,39.5,Intermediate,IV,4,227,1,Minor
+EQ0133,2020-09-13,2020,9,Arunachal Pradesh,North-East,28.161,95.664,3.4,Minor,17.9,Shallow,V,3,19,0,Minor
+EQ0134,2020-09-17,2020,9,Uttarakhand,Himalayan Belt,30.711,78.967,3.2,Minor,18.6,Shallow,IV,3,69,0,Minor
+EQ0135,2020-10-04,2020,10,Andaman and Nicobar,Island Arc,12.319,92.787,4.7,Light,94.3,Deep,V,3,12,4,None
+EQ0136,2020-10-09,2020,10,Arunachal Pradesh,North-East,28.15,94.892,4.9,Light,13.0,Shallow,V,6,63,5,Moderate
+EQ0137,2020-10-16,2020,10,Himachal Pradesh,Himalayan Belt,32.531,77.332,4.6,Light,8.1,Shallow,V,6,149,4,Moderate
+EQ0138,2020-10-27,2020,10,Uttarakhand,Himalayan Belt,30.18,78.932,4.2,Light,4.1,Shallow,IV,4,88,2,Minor
+EQ0139,2020-10-27,2020,10,Uttarakhand,Himalayan Belt,29.859,78.019,4.9,Light,34.8,Intermediate,IV,5,452,3,Minor
+EQ0140,2020-11-05,2020,11,Manipur,North-East,25.045,94.318,4.2,Light,22.8,Shallow,V,4,76,2,Minor
+EQ0141,2020-11-20,2020,11,Andaman and Nicobar,Island Arc,11.011,92.846,4.7,Light,36.6,Intermediate,V,5,9,5,Minor
+EQ0142,2020-11-28,2020,11,Jammu and Kashmir,Himalayan Belt,34.461,74.087,4.2,Light,8.0,Shallow,V,4,46,1,Minor
+EQ0143,2020-12-17,2020,12,Assam,North-East,25.99,94.484,3.3,Minor,4.0,Shallow,V,4,100,0,Minor
+EQ0144,2021-01-04,2021,1,Tamil Nadu,Peninsular India,9.861,78.579,3.8,Minor,3.0,Shallow,III,4,263,1,Minor
+EQ0145,2021-01-10,2021,1,Telangana,Peninsular India,17.267,78.776,3.3,Minor,3.0,Shallow,II,5,71,0,Moderate
+EQ0146,2021-01-14,2021,1,Uttar Pradesh,Indo-Gangetic Plain,27.375,80.302,4.8,Light,25.7,Shallow,III,5,386,4,Moderate
+EQ0147,2021-01-15,2021,1,Sikkim,North-East,27.283,88.259,5.5,Moderate,12.7,Shallow,IV,6,151,4,Moderate
+EQ0148,2021-01-16,2021,1,Bihar,Indo-Gangetic Plain,25.514,85.829,3.9,Minor,31.0,Intermediate,IV,4,580,1,Minor
+EQ0149,2021-01-24,2021,1,Assam,North-East,26.785,91.38,4.7,Light,13.8,Shallow,V,5,581,5,Moderate
+EQ0150,2021-02-08,2021,2,Jammu and Kashmir,Himalayan Belt,33.38,74.014,5.4,Moderate,11.3,Shallow,V,6,189,3,Moderate
+EQ0151,2021-02-10,2021,2,Jammu and Kashmir,Himalayan Belt,35.024,74.314,5.7,Moderate,16.5,Shallow,V,7,136,13,Severe
+EQ0152,2021-02-16,2021,2,Uttarakhand,Himalayan Belt,29.877,79.952,4.3,Light,9.4,Shallow,IV,5,179,3,Moderate
+EQ0153,2021-02-16,2021,2,Delhi,Indo-Gangetic Plain,28.279,77.671,4.2,Light,8.4,Shallow,IV,5,516,2,Moderate
+EQ0154,2021-02-18,2021,2,Assam,North-East,25.356,93.533,6.5,Strong,27.7,Shallow,V,7,443,23,Severe
+EQ0155,2021-02-25,2021,2,Nagaland,North-East,26.313,94.197,6.2,Strong,94.0,Deep,V,5,327,13,Minor
+EQ0156,2021-03-07,2021,3,Arunachal Pradesh,North-East,28.178,94.007,3.6,Minor,68.9,Intermediate,V,3,16,0,None
+EQ0157,2021-03-15,2021,3,Manipur,North-East,24.932,93.624,4.8,Light,36.1,Intermediate,V,5,85,3,Minor
+EQ0158,2021-03-22,2021,3,Andaman and Nicobar,Island Arc,12.456,92.764,4.9,Light,78.3,Deep,V,3,15,7,None
+EQ0159,2021-04-19,2021,4,Himachal Pradesh,Himalayan Belt,31.664,76.995,3.7,Minor,20.0,Shallow,V,4,71,1,Minor
+EQ0160,2021-04-21,2021,4,Telangana,Peninsular India,16.991,79.048,3.2,Minor,3.3,Shallow,II,4,18,0,Minor
+EQ0161,2021-04-27,2021,4,Maharashtra,Western Peninsula,17.015,73.852,3.3,Minor,3.0,Shallow,III,4,51,0,Minor
+EQ0162,2021-05-07,2021,5,Jammu and Kashmir,Himalayan Belt,35.282,75.377,3.5,Minor,34.0,Intermediate,V,3,59,0,None
+EQ0163,2021-05-15,2021,5,Uttarakhand,Himalayan Belt,30.02,80.574,3.4,Minor,35.9,Intermediate,IV,3,86,0,None
+EQ0164,2021-05-19,2021,5,Assam,North-East,25.932,91.776,4.8,Light,19.5,Shallow,V,6,219,7,Moderate
+EQ0165,2021-05-22,2021,5,Manipur,North-East,24.529,94.392,4.3,Light,64.1,Intermediate,V,3,40,2,None
+EQ0166,2021-06-08,2021,6,Gujarat,Western Peninsula,24.097,69.97,3.8,Minor,6.3,Shallow,V,5,60,1,Moderate
+EQ0167,2021-06-15,2021,6,Gujarat,Western Peninsula,23.535,70.616,3.7,Minor,16.7,Shallow,V,3,198,1,Minor
+EQ0168,2021-06-16,2021,6,Maharashtra,Western Peninsula,17.291,73.751,3.4,Minor,3.0,Shallow,III,4,74,0,Minor
+EQ0169,2021-06-19,2021,6,Jammu and Kashmir,Himalayan Belt,33.845,74.851,3.0,Minor,15.0,Shallow,V,2,39,0,None
+EQ0170,2021-06-27,2021,6,Manipur,North-East,24.534,93.798,4.0,Light,24.1,Shallow,V,4,41,1,Minor
+EQ0171,2021-07-04,2021,7,Mizoram,North-East,23.641,93.509,5.4,Moderate,23.8,Shallow,V,5,94,11,Moderate
+EQ0172,2021-07-05,2021,7,Jammu and Kashmir,Himalayan Belt,34.089,74.542,3.2,Minor,8.8,Shallow,V,2,52,0,None
+EQ0173,2021-07-07,2021,7,Uttarakhand,Himalayan Belt,30.236,78.59,4.5,Light,11.8,Shallow,IV,5,70,4,Moderate
+EQ0174,2021-07-27,2021,7,Bihar,Indo-Gangetic Plain,26.131,85.051,4.3,Light,12.7,Shallow,IV,5,186,2,Moderate
+EQ0175,2021-08-05,2021,8,Jammu and Kashmir,Himalayan Belt,35.121,74.276,3.9,Minor,12.9,Shallow,V,4,100,1,Minor
+EQ0176,2021-08-20,2021,8,Arunachal Pradesh,North-East,27.897,95.262,4.1,Light,16.9,Shallow,V,4,68,3,Minor
+EQ0177,2021-08-25,2021,8,Himachal Pradesh,Himalayan Belt,31.487,76.861,3.0,Minor,52.6,Intermediate,V,2,58,0,None
+EQ0178,2021-09-04,2021,9,Assam,North-East,26.957,92.629,3.6,Minor,16.7,Shallow,V,4,186,0,Minor
+EQ0179,2021-09-15,2021,9,Himachal Pradesh,Himalayan Belt,32.172,78.224,3.8,Minor,7.8,Shallow,V,4,102,1,Minor
+EQ0180,2021-09-16,2021,9,Rajasthan,Western Peninsula,26.467,73.048,3.9,Minor,7.2,Shallow,II,5,141,0,Moderate
+EQ0181,2021-09-17,2021,9,Maharashtra,Western Peninsula,17.8,73.946,3.0,Minor,5.4,Shallow,III,4,55,0,Minor
+EQ0182,2021-10-13,2021,10,Himachal Pradesh,Himalayan Belt,31.362,77.171,3.9,Minor,11.5,Shallow,V,4,58,1,Minor
+EQ0183,2021-10-14,2021,10,Jammu and Kashmir,Himalayan Belt,35.182,75.336,3.2,Minor,24.1,Shallow,V,4,23,0,Minor
+EQ0184,2021-10-16,2021,10,Rajasthan,Western Peninsula,26.285,74.781,3.9,Minor,29.0,Shallow,II,4,40,1,Minor
+EQ0185,2021-10-23,2021,10,Manipur,North-East,24.919,93.74,4.8,Light,5.2,Shallow,V,5,68,3,Moderate
+EQ0186,2021-11-15,2021,11,Bihar,Indo-Gangetic Plain,26.196,85.67,4.3,Light,17.9,Shallow,IV,5,234,3,Moderate
+EQ0187,2021-12-05,2021,12,Uttarakhand,Himalayan Belt,30.097,78.347,4.8,Light,22.4,Shallow,IV,5,191,5,Moderate
+EQ0188,2021-12-08,2021,12,Mizoram,North-East,22.813,92.45,5.1,Moderate,60.7,Intermediate,V,4,66,3,Minor
+EQ0189,2021-12-25,2021,12,Nagaland,North-East,25.946,94.404,6.3,Strong,47.9,Intermediate,V,6,188,18,Moderate
+EQ0190,2021-12-27,2021,12,Nagaland,North-East,25.888,94.732,4.3,Light,53.0,Intermediate,V,4,48,3,Minor
+EQ0191,2021-12-27,2021,12,Uttarakhand,Himalayan Belt,30.324,79.398,3.9,Minor,30.5,Intermediate,IV,4,128,1,Minor
+EQ0192,2022-01-05,2022,1,Mizoram,North-East,23.597,92.264,4.4,Light,24.1,Shallow,V,3,68,1,Minor
+EQ0193,2022-01-12,2022,1,Andaman and Nicobar,Island Arc,12.086,92.489,3.5,Minor,90.8,Deep,V,2,9,0,None
+EQ0194,2022-01-13,2022,1,Manipur,North-East,24.561,93.751,3.4,Minor,75.3,Deep,V,2,125,0,None
+EQ0195,2022-02-05,2022,2,Sikkim,North-East,27.329,88.513,5.0,Moderate,15.8,Shallow,IV,6,100,7,Moderate
+EQ0196,2022-02-10,2022,2,Uttarakhand,Himalayan Belt,31.018,79.314,3.2,Minor,12.0,Shallow,IV,3,62,0,Minor
+EQ0197,2022-02-20,2022,2,Himachal Pradesh,Himalayan Belt,31.901,77.742,3.4,Minor,3.8,Shallow,V,4,140,0,Minor
+EQ0198,2022-02-24,2022,2,Gujarat,Western Peninsula,23.936,69.61,7.1,Strong,5.3,Shallow,V,7,834,28,Severe
+EQ0199,2022-02-28,2022,2,Rajasthan,Western Peninsula,25.388,73.565,3.2,Minor,3.1,Shallow,II,4,21,0,Minor
+EQ0200,2022-03-05,2022,3,Nagaland,North-East,25.786,94.266,3.3,Minor,103.6,Deep,V,1,47,0,None
+EQ0201,2022-03-14,2022,3,Manipur,North-East,24.846,93.657,4.8,Light,77.4,Deep,V,4,247,6,Minor
+EQ0202,2022-03-18,2022,3,Arunachal Pradesh,North-East,27.718,93.76,5.5,Moderate,37.0,Intermediate,V,6,75,8,Moderate
+EQ0203,2022-03-25,2022,3,Assam,North-East,26.297,94.079,3.4,Minor,14.1,Shallow,V,3,92,0,Minor
+EQ0204,2022-03-26,2022,3,Uttarakhand,Himalayan Belt,30.585,79.821,4.4,Light,22.8,Shallow,IV,5,290,2,Moderate
+EQ0205,2022-04-03,2022,4,Assam,North-East,25.504,90.637,4.0,Light,17.7,Shallow,V,5,174,1,Moderate
+EQ0206,2022-04-13,2022,4,Arunachal Pradesh,North-East,27.981,95.125,3.7,Minor,26.9,Shallow,V,3,47,1,Minor
+EQ0207,2022-04-28,2022,4,Uttar Pradesh,Indo-Gangetic Plain,26.081,80.583,3.9,Minor,15.1,Shallow,III,4,369,1,Minor
+EQ0208,2022-05-07,2022,5,Andaman and Nicobar,Island Arc,12.096,92.521,4.5,Light,23.3,Shallow,V,4,15,5,Minor
+EQ0209,2022-05-28,2022,5,Arunachal Pradesh,North-East,27.707,93.928,4.1,Light,5.8,Shallow,V,6,52,2,Moderate
+EQ0210,2022-06-05,2022,6,Mizoram,North-East,23.617,93.529,4.4,Light,55.3,Intermediate,V,4,57,1,Minor
+EQ0211,2022-06-06,2022,6,Maharashtra,Western Peninsula,17.526,73.925,4.0,Light,9.0,Shallow,III,4,122,1,Minor
+EQ0212,2022-06-15,2022,6,Mizoram,North-East,23.569,93.075,3.8,Minor,13.4,Shallow,V,4,59,0,Minor
+EQ0213,2022-06-19,2022,6,Uttarakhand,Himalayan Belt,30.663,79.26,5.2,Moderate,9.2,Shallow,IV,5,219,4,Moderate
+EQ0214,2022-07-25,2022,7,Delhi,Indo-Gangetic Plain,28.252,77.36,4.4,Light,3.0,Shallow,IV,5,510,3,Moderate
+EQ0215,2022-08-08,2022,8,Gujarat,Western Peninsula,23.43,69.961,5.0,Moderate,7.6,Shallow,V,5,248,5,Moderate
+EQ0216,2022-08-26,2022,8,Uttarakhand,Himalayan Belt,30.56,77.771,3.6,Minor,16.0,Shallow,IV,3,75,0,Minor
+EQ0217,2022-08-27,2022,8,Bihar,Indo-Gangetic Plain,25.821,86.252,5.9,Moderate,36.0,Intermediate,IV,6,1111,9,Moderate
+EQ0218,2022-09-03,2022,9,Gujarat,Western Peninsula,23.192,69.239,4.4,Light,5.7,Shallow,V,5,288,1,Moderate
+EQ0219,2022-09-10,2022,9,Tamil Nadu,Peninsular India,10.786,78.786,3.1,Minor,4.4,Shallow,III,4,90,0,Minor
+EQ0220,2022-09-11,2022,9,Bihar,Indo-Gangetic Plain,25.668,86.801,4.8,Light,21.0,Shallow,IV,5,275,5,Moderate
+EQ0221,2022-09-25,2022,9,Rajasthan,Western Peninsula,27.101,73.089,4.2,Light,6.4,Shallow,II,5,47,3,Moderate
+EQ0222,2022-10-02,2022,10,Manipur,North-East,24.035,93.863,4.6,Light,39.3,Intermediate,V,5,74,2,Minor
+EQ0223,2022-10-03,2022,10,Assam,North-East,26.451,92.553,3.3,Minor,17.3,Shallow,V,4,160,0,Minor
+EQ0224,2022-10-14,2022,10,Odisha,Peninsular India,21.097,84.585,4.0,Light,3.0,Shallow,III,4,40,2,Minor
+EQ0225,2022-10-18,2022,10,Jammu and Kashmir,Himalayan Belt,34.357,76.855,5.2,Moderate,23.9,Shallow,V,5,187,10,Moderate
+EQ0226,2022-10-19,2022,10,Assam,North-East,25.276,93.293,5.1,Moderate,11.3,Shallow,V,4,761,8,Minor
+EQ0227,2022-10-25,2022,10,Gujarat,Western Peninsula,23.04,70.105,4.7,Light,12.8,Shallow,V,6,229,2,Moderate
+EQ0228,2022-11-05,2022,11,Arunachal Pradesh,North-East,27.105,93.597,4.9,Light,22.5,Shallow,V,5,21,6,Moderate
+EQ0229,2022-11-07,2022,11,Himachal Pradesh,Himalayan Belt,31.997,77.571,3.6,Minor,5.5,Shallow,V,4,64,1,Minor
+EQ0230,2022-11-19,2022,11,Himachal Pradesh,Himalayan Belt,32.058,77.097,4.4,Light,20.5,Shallow,V,4,36,3,Minor
+EQ0231,2022-11-19,2022,11,Andaman and Nicobar,Island Arc,12.305,92.456,3.4,Minor,46.3,Intermediate,V,4,16,0,Minor
+EQ0232,2022-11-20,2022,11,Maharashtra,Western Peninsula,16.899,73.671,3.7,Minor,33.6,Intermediate,III,3,132,1,None
+EQ0233,2022-12-04,2022,12,Uttarakhand,Himalayan Belt,29.477,78.927,4.6,Light,15.2,Shallow,IV,5,217,2,Moderate
+EQ0234,2022-12-19,2022,12,Gujarat,Western Peninsula,23.556,69.746,3.9,Minor,13.1,Shallow,V,4,98,1,Minor
+EQ0235,2022-12-22,2022,12,Manipur,North-East,24.498,93.978,5.3,Moderate,83.6,Deep,V,5,67,7,Minor
+EQ0236,2022-12-26,2022,12,Himachal Pradesh,Himalayan Belt,32.22,76.654,3.9,Minor,5.0,Shallow,V,4,61,1,Minor
+EQ0237,2023-01-04,2023,1,Assam,North-East,26.164,92.966,5.1,Moderate,15.6,Shallow,V,6,332,9,Moderate
+EQ0238,2023-01-14,2023,1,Arunachal Pradesh,North-East,28.245,94.789,6.5,Strong,19.1,Shallow,V,6,44,19,Moderate
+EQ0239,2023-01-24,2023,1,Sikkim,North-East,27.379,88.764,3.1,Minor,16.6,Shallow,IV,4,17,0,Minor
+EQ0240,2023-01-25,2023,1,Himachal Pradesh,Himalayan Belt,31.214,77.678,3.1,Minor,23.4,Shallow,V,3,27,0,Minor
+EQ0241,2023-02-08,2023,2,Himachal Pradesh,Himalayan Belt,31.96,77.511,4.7,Light,19.2,Shallow,V,5,90,5,Moderate
+EQ0242,2023-03-05,2023,3,Jammu and Kashmir,Himalayan Belt,34.108,73.137,3.3,Minor,17.3,Shallow,V,4,27,0,Minor
+EQ0243,2023-03-13,2023,3,Nagaland,North-East,26.034,94.177,3.6,Minor,113.7,Deep,V,1,80,0,None
+EQ0244,2023-03-17,2023,3,Gujarat,Western Peninsula,23.955,70.015,6.1,Strong,17.9,Shallow,V,6,607,18,Moderate
+EQ0245,2023-03-19,2023,3,Himachal Pradesh,Himalayan Belt,32.65,76.464,3.6,Minor,5.2,Shallow,V,4,55,0,Minor
+EQ0246,2023-04-14,2023,4,Jammu and Kashmir,Himalayan Belt,34.01,76.06,3.3,Minor,19.6,Shallow,V,4,28,0,Minor
+EQ0247,2023-04-28,2023,4,Jammu and Kashmir,Himalayan Belt,35.648,75.166,3.7,Minor,16.3,Shallow,V,4,63,1,Minor
+EQ0248,2023-05-02,2023,5,Sikkim,North-East,27.244,88.731,4.5,Light,19.1,Shallow,IV,4,74,4,Minor
+EQ0249,2023-05-07,2023,5,Arunachal Pradesh,North-East,27.254,94.973,4.1,Light,54.4,Intermediate,V,3,7,2,None
+EQ0250,2023-05-20,2023,5,Sikkim,North-East,27.458,88.794,3.5,Minor,14.2,Shallow,IV,4,26,0,Minor
+EQ0251,2023-05-22,2023,5,Tamil Nadu,Peninsular India,10.69,78.882,3.4,Minor,7.0,Shallow,III,4,187,0,Minor
+EQ0252,2023-05-24,2023,5,Uttarakhand,Himalayan Belt,30.412,79.601,4.1,Light,25.1,Shallow,IV,4,136,1,Minor
+EQ0253,2023-05-25,2023,5,Sikkim,North-East,27.605,89.319,4.5,Light,27.2,Shallow,IV,4,36,1,Minor
+EQ0254,2023-06-04,2023,6,Andaman and Nicobar,Island Arc,12.338,92.761,3.4,Minor,33.1,Intermediate,V,4,20,0,Minor
+EQ0255,2023-06-19,2023,6,Assam,North-East,26.642,92.981,6.7,Strong,17.6,Shallow,V,7,701,21,Severe
+EQ0256,2023-06-28,2023,6,Assam,North-East,26.452,92.499,4.0,Light,15.8,Shallow,V,4,126,2,Minor
+EQ0257,2023-07-01,2023,7,Odisha,Peninsular India,19.85,84.77,4.1,Light,7.9,Shallow,III,4,61,2,Minor
+EQ0258,2023-07-07,2023,7,Himachal Pradesh,Himalayan Belt,32.45,76.96,4.7,Light,13.9,Shallow,V,6,358,6,Moderate
+EQ0259,2023-08-04,2023,8,Manipur,North-East,24.691,94.434,7.1,Strong,125.4,Deep,V,6,285,29,Moderate
+EQ0260,2023-08-05,2023,8,Uttar Pradesh,Indo-Gangetic Plain,27.929,79.277,4.2,Light,17.2,Shallow,III,4,253,3,Minor
+EQ0261,2023-08-13,2023,8,Uttarakhand,Himalayan Belt,30.393,78.408,3.7,Minor,7.7,Shallow,IV,3,162,1,Minor
+EQ0262,2023-08-24,2023,8,Uttarakhand,Himalayan Belt,31.396,77.905,4.1,Light,26.3,Shallow,IV,4,363,2,Minor
+EQ0263,2023-08-27,2023,8,Jammu and Kashmir,Himalayan Belt,35.201,76.209,3.7,Minor,14.5,Shallow,V,5,70,1,Moderate
+EQ0264,2023-08-27,2023,8,Delhi,Indo-Gangetic Plain,28.278,77.14,3.9,Minor,7.3,Shallow,IV,5,229,2,Moderate
+EQ0265,2023-09-01,2023,9,Uttarakhand,Himalayan Belt,30.412,78.672,4.5,Light,7.2,Shallow,IV,5,120,4,Moderate
+EQ0266,2023-09-10,2023,9,Andaman and Nicobar,Island Arc,11.742,92.935,5.0,Moderate,136.8,Deep,V,3,30,7,None
+EQ0267,2023-09-24,2023,9,Mizoram,North-East,22.721,93.206,3.7,Minor,30.4,Intermediate,V,4,38,1,Minor
+EQ0268,2023-10-05,2023,10,Arunachal Pradesh,North-East,27.63,95.413,4.0,Light,38.5,Intermediate,V,3,43,1,None
+EQ0269,2023-10-06,2023,10,Tamil Nadu,Peninsular India,11.158,79.242,3.2,Minor,7.1,Shallow,III,3,131,0,Minor
+EQ0270,2023-10-08,2023,10,Arunachal Pradesh,North-East,28.216,93.597,4.2,Light,21.9,Shallow,V,5,63,1,Moderate
+EQ0271,2023-10-09,2023,10,Nagaland,North-East,26.77,94.881,3.6,Minor,36.5,Intermediate,V,3,27,0,None
+EQ0272,2023-10-14,2023,10,Delhi,Indo-Gangetic Plain,28.09,77.596,4.7,Light,12.2,Shallow,IV,5,1132,3,Moderate
+EQ0273,2023-10-18,2023,10,Telangana,Peninsular India,16.839,78.535,3.4,Minor,4.8,Shallow,II,4,89,0,Minor
+EQ0274,2023-10-25,2023,10,Andaman and Nicobar,Island Arc,10.889,92.621,3.9,Minor,72.2,Deep,V,3,18,0,None
+EQ0275,2023-10-26,2023,10,Arunachal Pradesh,North-East,27.096,95.455,5.2,Moderate,44.3,Intermediate,V,5,100,9,Minor
+EQ0276,2023-11-06,2023,11,Bihar,Indo-Gangetic Plain,26.846,86.159,4.2,Light,35.3,Intermediate,IV,3,420,1,None
+EQ0277,2023-11-18,2023,11,Uttarakhand,Himalayan Belt,29.718,78.53,4.6,Light,19.5,Shallow,IV,4,180,3,Minor
+EQ0278,2023-12-07,2023,12,Sikkim,North-East,27.792,88.682,4.3,Light,21.4,Shallow,IV,4,33,2,Minor
+EQ0279,2023-12-10,2023,12,Assam,North-East,26.027,91.958,4.0,Light,48.4,Intermediate,V,4,136,2,Minor
+EQ0280,2023-12-18,2023,12,Andaman and Nicobar,Island Arc,11.725,93.069,4.6,Light,84.3,Deep,V,4,13,5,Minor
+EQ0281,2024-01-02,2024,1,Tamil Nadu,Peninsular India,10.48,78.649,3.3,Minor,11.7,Shallow,III,3,115,0,Minor
+EQ0282,2024-01-12,2024,1,Jammu and Kashmir,Himalayan Belt,36.141,73.159,3.6,Minor,4.7,Shallow,V,4,49,1,Minor
+EQ0283,2024-01-15,2024,1,Uttarakhand,Himalayan Belt,30.76,79.18,4.6,Light,7.6,Shallow,IV,5,375,5,Moderate
+EQ0284,2024-01-21,2024,1,Jammu and Kashmir,Himalayan Belt,33.898,76.452,4.0,Light,18.9,Shallow,V,5,170,1,Moderate
+EQ0285,2024-01-22,2024,1,Delhi,Indo-Gangetic Plain,28.662,77.006,3.6,Minor,17.2,Shallow,IV,4,105,0,Minor
+EQ0286,2024-01-25,2024,1,Odisha,Peninsular India,20.426,84.601,3.0,Minor,8.2,Shallow,III,3,20,0,Minor
+EQ0287,2024-02-16,2024,2,Delhi,Indo-Gangetic Plain,28.224,77.456,3.4,Minor,7.9,Shallow,IV,5,143,0,Moderate
+EQ0288,2024-02-23,2024,2,Andaman and Nicobar,Island Arc,10.932,92.787,5.1,Moderate,120.0,Deep,V,3,24,5,None
+EQ0289,2024-03-12,2024,3,Nagaland,North-East,26.243,93.927,3.4,Minor,96.5,Deep,V,2,28,0,None
+EQ0290,2024-03-26,2024,3,Maharashtra,Western Peninsula,17.903,74.247,3.8,Minor,8.5,Shallow,III,4,107,0,Minor
+EQ0291,2024-04-09,2024,4,Sikkim,North-East,27.205,88.058,4.0,Light,13.2,Shallow,IV,4,80,1,Minor
+EQ0292,2024-04-11,2024,4,Maharashtra,Western Peninsula,17.372,73.799,3.0,Minor,9.6,Shallow,III,4,34,0,Minor
+EQ0293,2024-04-28,2024,4,Himachal Pradesh,Himalayan Belt,32.271,76.544,4.6,Light,17.8,Shallow,V,5,236,3,Moderate
+EQ0294,2024-05-01,2024,5,Gujarat,Western Peninsula,24.163,68.856,4.0,Light,6.7,Shallow,V,5,520,2,Moderate
+EQ0295,2024-05-02,2024,5,Andaman and Nicobar,Island Arc,11.087,92.989,4.9,Light,25.6,Shallow,V,5,17,7,Moderate
+EQ0296,2024-05-06,2024,5,Manipur,North-East,25.257,94.643,6.5,Strong,81.8,Deep,V,4,220,13,Minor
+EQ0297,2024-05-11,2024,5,Gujarat,Western Peninsula,22.555,70.073,3.8,Minor,22.7,Shallow,V,4,228,1,Minor
+EQ0298,2024-05-12,2024,5,Arunachal Pradesh,North-East,28.224,94.42,3.2,Minor,62.0,Intermediate,V,3,25,0,None
+EQ0299,2024-05-12,2024,5,Andaman and Nicobar,Island Arc,11.601,92.344,3.7,Minor,44.0,Intermediate,V,4,13,0,Minor
+EQ0300,2024-05-23,2024,5,Odisha,Peninsular India,20.628,83.928,3.8,Minor,6.9,Shallow,III,5,76,1,Moderate
+EQ0301,2024-05-28,2024,5,Arunachal Pradesh,North-East,28.211,94.667,4.5,Light,10.9,Shallow,V,5,26,4,Moderate
+EQ0302,2024-06-19,2024,6,Gujarat,Western Peninsula,23.496,69.033,3.7,Minor,24.3,Shallow,V,4,73,1,Minor
+EQ0303,2024-07-17,2024,7,Manipur,North-East,24.321,93.537,4.5,Light,44.5,Intermediate,V,5,52,5,Minor
+EQ0304,2024-07-19,2024,7,Gujarat,Western Peninsula,23.38,68.444,3.5,Minor,5.6,Shallow,V,3,130,0,Minor
+EQ0305,2024-08-10,2024,8,Arunachal Pradesh,North-East,27.977,94.913,4.7,Light,37.1,Intermediate,V,5,66,4,Minor
+EQ0306,2024-08-12,2024,8,Nagaland,North-East,26.508,94.502,6.7,Strong,52.8,Intermediate,V,6,155,13,Moderate
+EQ0307,2024-08-14,2024,8,Arunachal Pradesh,North-East,28.241,94.86,3.2,Minor,3.2,Shallow,V,5,21,0,Moderate
+EQ0308,2024-08-27,2024,8,Manipur,North-East,25.183,93.658,3.6,Minor,56.6,Intermediate,V,3,52,0,None
+EQ0309,2024-09-07,2024,9,Sikkim,North-East,27.428,89.511,5.3,Moderate,49.2,Intermediate,IV,5,245,11,Minor
+EQ0310,2024-09-10,2024,9,Jammu and Kashmir,Himalayan Belt,35.052,76.844,4.1,Light,37.1,Intermediate,V,4,68,3,Minor
+EQ0311,2024-09-18,2024,9,Nagaland,North-East,26.094,95.565,4.5,Light,50.8,Intermediate,V,5,40,2,Minor
+EQ0312,2024-09-21,2024,9,Maharashtra,Western Peninsula,17.384,73.595,3.6,Minor,10.7,Shallow,III,4,114,1,Minor
+EQ0313,2024-09-23,2024,9,Jammu and Kashmir,Himalayan Belt,35.269,74.354,3.7,Minor,25.4,Shallow,V,4,74,1,Minor
+EQ0314,2024-09-24,2024,9,Uttarakhand,Himalayan Belt,29.989,79.309,4.4,Light,21.4,Shallow,IV,4,98,3,Minor
+EQ0315,2024-10-07,2024,10,Maharashtra,Western Peninsula,17.091,74.12,3.3,Minor,3.0,Shallow,III,4,117,0,Minor
+EQ0316,2024-10-16,2024,10,Gujarat,Western Peninsula,23.325,70.381,4.3,Light,12.7,Shallow,V,6,260,3,Moderate
+EQ0317,2024-11-15,2024,11,Assam,North-East,26.534,92.999,3.3,Minor,24.9,Shallow,V,3,148,0,Minor
+EQ0318,2024-11-24,2024,11,Assam,North-East,27.339,93.505,3.6,Minor,26.7,Shallow,V,3,56,1,Minor
+EQ0319,2024-12-01,2024,12,Arunachal Pradesh,North-East,26.477,95.337,4.7,Light,36.7,Intermediate,V,4,40,3,Minor
+EQ0320,2024-12-09,2024,12,Nagaland,North-East,25.549,93.861,4.0,Light,44.4,Intermediate,V,3,26,1,None
+EQ0321,2024-12-12,2024,12,Nagaland,North-East,26.013,94.673,5.4,Moderate,5.1,Shallow,V,6,137,9,Moderate
+EQ0322,2024-12-18,2024,12,Odisha,Peninsular India,20.441,84.906,3.0,Minor,9.5,Shallow,III,3,14,0,Minor
+EQ0323,2024-12-21,2024,12,Andaman and Nicobar,Island Arc,11.453,92.839,3.6,Minor,59.6,Intermediate,V,3,10,0,None
+EQ0324,2024-12-21,2024,12,Jammu and Kashmir,Himalayan Belt,33.861,74.84,3.6,Minor,10.2,Shallow,V,4,31,0,Minor
+EQ0325,2025-01-26,2025,1,Uttar Pradesh,Indo-Gangetic Plain,26.954,80.591,3.8,Minor,13.8,Shallow,III,4,181,0,Minor
+EQ0326,2025-02-04,2025,2,Arunachal Pradesh,North-East,28.786,95.248,3.6,Minor,26.3,Shallow,V,3,26,0,Minor
+EQ0327,2025-02-15,2025,2,Uttarakhand,Himalayan Belt,30.76,78.991,3.4,Minor,47.8,Intermediate,IV,3,39,0,None
+EQ0328,2025-03-01,2025,3,Bihar,Indo-Gangetic Plain,24.66,85.758,4.3,Light,38.4,Intermediate,IV,3,430,3,None
+EQ0329,2025-03-04,2025,3,Uttar Pradesh,Indo-Gangetic Plain,26.392,81.603,4.1,Light,12.4,Shallow,III,4,328,1,Minor
+EQ0330,2025-03-17,2025,3,Arunachal Pradesh,North-East,27.43,94.427,4.0,Light,16.3,Shallow,V,4,19,2,Minor
+EQ0331,2025-03-19,2025,3,Mizoram,North-East,23.695,93.806,3.3,Minor,24.8,Shallow,V,2,50,0,None
+EQ0332,2025-03-21,2025,3,Manipur,North-East,24.349,93.556,4.1,Light,52.7,Intermediate,V,3,76,1,None
+EQ0333,2025-03-22,2025,3,Jammu and Kashmir,Himalayan Belt,33.462,75.658,4.2,Light,6.2,Shallow,V,5,187,2,Moderate
+EQ0334,2025-03-23,2025,3,Arunachal Pradesh,North-East,27.651,94.966,3.7,Minor,46.4,Intermediate,V,3,16,0,None
+EQ0335,2025-03-27,2025,3,Telangana,Peninsular India,17.25,79.906,3.0,Minor,10.8,Shallow,II,3,33,0,Minor
+EQ0336,2025-04-05,2025,4,Nagaland,North-East,25.514,94.704,3.8,Minor,30.7,Intermediate,V,4,51,1,Minor
+EQ0337,2025-04-14,2025,4,Gujarat,Western Peninsula,24.18,70.281,3.1,Minor,3.4,Shallow,V,3,73,0,Minor
+EQ0338,2025-04-19,2025,4,Uttar Pradesh,Indo-Gangetic Plain,26.59,80.014,3.3,Minor,20.8,Shallow,III,3,89,0,Minor
+EQ0339,2025-04-24,2025,4,Manipur,North-East,25.323,93.686,5.0,Moderate,22.9,Shallow,V,6,130,3,Moderate
+EQ0340,2025-05-01,2025,5,Telangana,Peninsular India,16.779,79.452,3.1,Minor,3.0,Shallow,II,3,56,0,Minor
+EQ0341,2025-05-09,2025,5,Manipur,North-East,24.961,93.925,5.6,Moderate,81.9,Deep,V,4,132,7,Minor
+EQ0342,2025-05-20,2025,5,Jammu and Kashmir,Himalayan Belt,33.815,75.402,3.5,Minor,14.2,Shallow,V,4,49,0,Minor
+EQ0343,2025-06-02,2025,6,Sikkim,North-East,27.324,88.152,3.2,Minor,27.9,Shallow,IV,3,20,0,Minor
+EQ0344,2025-06-03,2025,6,Sikkim,North-East,27.143,87.863,4.8,Light,15.9,Shallow,IV,5,40,4,Moderate
+EQ0345,2025-06-04,2025,6,Andaman and Nicobar,Island Arc,11.65,92.847,5.5,Moderate,68.7,Intermediate,V,4,23,10,Minor
+EQ0346,2025-06-08,2025,6,Bihar,Indo-Gangetic Plain,26.147,85.577,3.5,Minor,19.9,Shallow,IV,3,308,0,Minor
+EQ0347,2025-06-10,2025,6,Gujarat,Western Peninsula,22.314,70.422,4.3,Light,16.7,Shallow,V,5,423,2,Moderate
+EQ0348,2025-06-11,2025,6,Tamil Nadu,Peninsular India,11.98,79.294,3.6,Minor,9.8,Shallow,III,5,173,1,Moderate
+EQ0349,2025-06-24,2025,6,Uttarakhand,Himalayan Belt,30.465,77.741,4.0,Light,7.1,Shallow,IV,4,398,2,Minor
+EQ0350,2025-06-25,2025,6,Tamil Nadu,Peninsular India,11.512,78.952,3.1,Minor,4.6,Shallow,III,3,62,0,Minor
+EQ0351,2025-07-01,2025,7,Assam,North-East,26.378,93.239,4.3,Light,43.2,Intermediate,V,4,663,1,Minor
+EQ0352,2025-07-08,2025,7,Jammu and Kashmir,Himalayan Belt,33.209,74.868,4.9,Light,10.7,Shallow,V,6,296,7,Moderate
+EQ0353,2025-07-24,2025,7,Himachal Pradesh,Himalayan Belt,31.81,76.53,4.0,Light,4.1,Shallow,V,5,34,1,Moderate
+EQ0354,2025-08-01,2025,8,Andaman and Nicobar,Island Arc,11.096,92.793,5.5,Moderate,14.2,Shallow,V,6,24,8,Moderate
+EQ0355,2025-08-02,2025,8,Manipur,North-East,25.255,93.801,3.9,Minor,93.4,Deep,V,2,66,1,None
+EQ0356,2025-08-08,2025,8,Uttarakhand,Himalayan Belt,30.791,78.68,3.5,Minor,11.5,Shallow,IV,3,81,0,Minor
+EQ0357,2025-08-08,2025,8,Bihar,Indo-Gangetic Plain,26.575,84.915,3.7,Minor,10.0,Shallow,IV,4,231,1,Minor
+EQ0358,2025-08-08,2025,8,Jammu and Kashmir,Himalayan Belt,34.369,74.817,3.7,Minor,18.6,Shallow,V,4,62,0,Minor
+EQ0359,2025-08-09,2025,8,Jammu and Kashmir,Himalayan Belt,35.634,74.908,3.2,Minor,14.0,Shallow,V,3,45,0,Minor
+EQ0360,2025-08-13,2025,8,Delhi,Indo-Gangetic Plain,28.693,76.826,3.3,Minor,10.3,Shallow,IV,3,174,0,Minor
+EQ0361,2025-08-16,2025,8,Tamil Nadu,Peninsular India,11.649,78.887,3.2,Minor,23.9,Shallow,III,4,69,0,Minor
+EQ0362,2025-09-04,2025,9,Sikkim,North-East,27.139,87.985,3.2,Minor,26.2,Shallow,IV,3,27,0,Minor
+EQ0363,2025-09-16,2025,9,Uttar Pradesh,Indo-Gangetic Plain,26.816,79.088,3.1,Minor,19.5,Shallow,III,3,112,0,Minor
+EQ0364,2025-09-21,2025,9,Maharashtra,Western Peninsula,17.558,74.038,3.2,Minor,6.2,Shallow,III,4,103,0,Minor
+EQ0365,2025-10-08,2025,10,Maharashtra,Western Peninsula,17.543,73.649,3.5,Minor,5.5,Shallow,III,5,115,1,Moderate
+EQ0366,2025-10-09,2025,10,Sikkim,North-East,27.414,88.561,3.9,Minor,14.1,Shallow,IV,5,31,1,Moderate
+EQ0367,2025-10-10,2025,10,Gujarat,Western Peninsula,23.771,69.478,3.6,Minor,13.8,Shallow,V,4,50,1,Minor
+EQ0368,2025-10-11,2025,10,Andaman and Nicobar,Island Arc,10.685,92.53,4.6,Light,72.6,Deep,V,4,31,2,Minor
+EQ0369,2025-10-17,2025,10,Manipur,North-East,25.09,94.176,5.4,Moderate,35.4,Intermediate,V,5,69,8,Minor
+EQ0370,2025-10-26,2025,10,Tamil Nadu,Peninsular India,10.956,78.881,3.1,Minor,3.0,Shallow,III,4,38,0,Minor
+EQ0371,2025-11-27,2025,11,Rajasthan,Western Peninsula,26.353,74.353,3.2,Minor,4.7,Shallow,II,4,23,0,Minor
+EQ0372,2025-12-11,2025,12,Andaman and Nicobar,Island Arc,11.677,93.109,5.9,Moderate,29.5,Shallow,V,6,26,14,Moderate
